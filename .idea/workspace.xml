@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b4724ce-8396-444d-84ab-6b44b132d55f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2dWq5hoJHQI02wlKuFeXldCbXFq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.avg.executor": "Run",
+    "Python.d1.executor": "Run",
+    "Python.fact.executor": "Run",
+    "Python.fl1.executor": "Run",
+    "Python.fl2.executor": "Run",
+    "Python.fl3.executor": "Run",
+    "Python.fl4.executor": "Run",
+    "Python.fl5.executor": "Run",
+    "Python.fll1.executor": "Run",
+    "Python.fll2.executor": "Run",
+    "Python.fll3.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.hf.executor": "Run",
+    "Python.hf1.executor": "Run",
+    "Python.ie.executor": "Run",
+    "Python.ie1.executor": "Run",
+    "Python.ie2.executor": "Run",
+    "Python.ie3.executor": "Run",
+    "Python.ie4.executor": "Run",
+    "Python.ie5.executor": "Run",
+    "Python.ie6.executor": "Run",
+    "Python.l1.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mincal.executor": "Run",
+    "Python.muldiv.executor": "Run",
+    "Python.nf1.executor": "Run",
+    "Python.nf2.executor": "Run",
+    "Python.socre.executor": "Run",
+    "Python.sum.executor": "Run",
+    "Python.tq.executor": "Run",
+    "Python.whl.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/KalaiArasanJ/Desktop/Python_Exercises"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b4724ce-8396-444d-84ab-6b44b132d55f" name="Changes" comment="" />
+      <created>1710134000764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710134000764</updated>
+    </task>
+    <servers />
+  </component>
+</project>
