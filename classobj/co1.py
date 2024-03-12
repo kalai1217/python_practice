@@ -14,3 +14,4 @@ jerry.name="jerry"
 print(tom.name)
 print("drink:",tom.drink)
 print("drink:",jerry.drink)
+print("test")
